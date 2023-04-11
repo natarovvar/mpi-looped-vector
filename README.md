@@ -6,6 +6,9 @@ Pass a vector of 100 elements along the ring, let each process iterate through t
 
 ## Scheme
 
+ <img src="https://i.imgur.com/4uRqYBV.jpg" width="750" />
+
+ 
 ## Technology Stack
 * C++20
 * MPI 4.0
